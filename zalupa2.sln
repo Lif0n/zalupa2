@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zalupa2", "zalupa2\zalupa2.csproj", "{14C983B0-2EE7-42F5-92A3-6FDEEA80847F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zalupApi", "zalupApi\zalupApi.csproj", "{7FFDB242-3AE4-4496-9C21-6F14C7280F6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14C983B0-2EE7-42F5-92A3-6FDEEA80847F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C983B0-2EE7-42F5-92A3-6FDEEA80847F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C983B0-2EE7-42F5-92A3-6FDEEA80847F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C983B0-2EE7-42F5-92A3-6FDEEA80847F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FFDB242-3AE4-4496-9C21-6F14C7280F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FFDB242-3AE4-4496-9C21-6F14C7280F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FFDB242-3AE4-4496-9C21-6F14C7280F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FFDB242-3AE4-4496-9C21-6F14C7280F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBE4755A-E848-41B3-A9CC-077025C16CBE}
+	EndGlobalSection
+EndGlobal
